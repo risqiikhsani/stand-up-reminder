@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Stand Up Reminder
+Exec=/usr/bin/python /home/bismillah/Documents/project/py/stand-up-reminder/stand_up_reminder.py
+Hidden=false
+NoDisplay=false
+Terminal=true
